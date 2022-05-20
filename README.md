@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="123">
 <!--
 **OrsatM/OrsatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
